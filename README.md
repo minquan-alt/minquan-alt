@@ -41,7 +41,6 @@ Hello! My name is Quang. I am a sophomore at VNU-UIT, following a path to become
 [![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="120"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/>
-[![Plotly](https://skillicons.dev/icons?i=plotly)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,linux)](https://skillicons.dev)
