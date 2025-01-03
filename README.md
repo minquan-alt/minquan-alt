@@ -1,8 +1,14 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA0bXlhamJiNWZrYjRpN3N3ZHZ3bXJnZnZmNmVndzVlbmQ0djhrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="400">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/minhquang19/">
+    <a href="https://www.hackerrank.com/" target="blank">
+      <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/minhquang19/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://leetcode.com/" target="blank">
+      <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=minquan-alt&style=flat-square&color=blue" alt=""/>
@@ -22,6 +28,7 @@ Hello! My name is Quang. I am a sophomore at VNU-UIT, following a path to become
 - ✍️ Aspiring content writer, aiming to share valuable insights with the global coding community.
 
 ## Tech Stack
+
 ### Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)](https://skillicons.dev)
 
@@ -38,7 +45,6 @@ Hello! My name is Quang. I am a sophomore at VNU-UIT, following a path to become
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,linux)](https://skillicons.dev)
-
 
 ## 🌱 Currently Exploring
 
