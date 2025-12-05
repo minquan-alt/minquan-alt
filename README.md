@@ -13,17 +13,17 @@
 
 # Hi, I'm Quang! 👋
 
-Hello! My name is Quang. I am a student at VNU-UIT, following a path to become an AI/Machine Learning Engineer. Welcome to my GitHub profile! My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![Quang's Stats](https://github-readme-stats.vercel.app/api?username=minquan-alt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I’m an AI/ML Engineer in training with strong foundations in machine learning, deep learning, and end-to-end system development.  
+Currently a third-year student at UIT (VNU-HCM), I enjoy building intelligent systems, experimenting with new ideas, and sharing what I learn.
 
 ## 🚀 About Me
 
-- I'm currently a third-year student at VNU-UIT, pursuing a degree in Information Systems.
-- Active contributor to open-source projects, helping the tech community grow.
-- Having high passion on machine learning, deep learning
+- 🎓 Third-year Information Systems student at UIT (VNU-HCM).  
+- 🤖 Passionate about AI/ML, especially NLP, Computer Vision, and agent-based systems.  
+- 🧠 Experience with building agents using ADK / LangChain and implementing ML algorithms from scratch.  
+- 🌱 Growth-driven, responsible, and constantly learning to improve my engineering skills.
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)](https://skillicons.dev)
@@ -31,7 +31,7 @@ Hello! My name is Quang. I am a student at VNU-UIT, following a path to become a
 ### Backend
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,java)](https://skillicons.dev)
 
-### Data Science
+### Data Science / AI / ML
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
@@ -44,7 +44,8 @@ Hello! My name is Quang. I am a student at VNU-UIT, following a path to become a
 
 ## 🌱 Currently Exploring
 
-- <b>Learning advanced AI and Machine Learning concepts. </b>
-  - Working on projects involving machine learning and deep learning.
-  - Exploring natural language processing and computer vision.
-  - Implementing various machine learning algorithms.
+- Building AI agents with ADK, LangChain, and retrieval systems.  
+- Researching and implementing machine learning & deep learning techniques.  
+- Working on NLP, Computer Vision, and ML system design.  
+- Improving my understanding of scalable AI/ML engineering.
+
