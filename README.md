@@ -18,10 +18,10 @@ Currently a third-year student at UIT (VNU-HCM), I enjoy building intelligent sy
 
 ## 🚀 About Me
 
-- 🎓 Third-year Information Systems student at UIT (VNU-HCM).  
-- 🤖 Passionate about AI/ML, especially NLP, Computer Vision, and agent-based systems.  
-- 🧠 Experience with building agents using ADK / LangChain and implementing ML algorithms from scratch.  
-- 🌱 Growth-driven, responsible, and constantly learning to improve my engineering skills.
+- Third-year Information Systems student at UIT (VNU-HCM).  
+- Passionate about AI/ML, especially NLP and agent-based systems.  
+- Experienced in building ML algorithms from scratch (e.g., KNN, SVM) and developing end-to-end AI solutions deployed in real-world systems.
+- Growth-driven, responsible, and constantly learning to improve my engineering skills.
 
 ## 🛠 Tech Stack
 
@@ -40,12 +40,10 @@ Currently a third-year student at UIT (VNU-HCM), I enjoy building intelligent sy
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/>
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,docker,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,linux,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- Building AI agents with ADK, LangChain, and retrieval systems.  
-- Researching and implementing machine learning & deep learning techniques.  
-- Working on NLP, Computer Vision, and ML system design.  
-- Improving my understanding of scalable AI/ML engineering.
-
+- Researched the problem of typhoon trajectory tracking.
+- Conducted research and developed AI projects with big data.
+- Reviewed and consolidated ML/DL knowledge in the form of blog posts.
