@@ -13,7 +13,7 @@
 
 # Hi, I'm Quang! 👋
 
-I’m an AI/ML Engineer in training with strong foundations in machine learning, deep learning, and end-to-end system development.  
+I’m an AI/ML Engineer with strong foundations in machine learning, deep learning, and end-to-end system development.  
 Currently a third-year student at UIT (VNU-HCM), I enjoy building intelligent systems, experimenting with new ideas, and sharing what I learn.
 
 ## 🚀 About Me
