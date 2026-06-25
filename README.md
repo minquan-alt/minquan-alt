@@ -1,3 +1,8 @@
+<div id="header" align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA0bXlhamJiNWZrYjRpN3N3ZHZ3bXJnZnZmNmVndzVlbmQ0djhrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="400">
+
+<div id="badges"> <a href="https://www.hackerrank.com/profile/hbminhquang_19" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/> </a> <a href="https://www.linkedin.com/in/quangai/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
+
+<img src="https://komarev.com/ghpvc/?username=minquan-alt&style=flat-square&color=blue" alt=""/> </div>
 # Hi, I'm Quang! 👋
 
 I'm an AI/ML Engineer passionate about building end-to-end AI systems that bridge research and real-world applications. Currently a third-year Information Systems student at the University of Information Technology (VNU-HCM), I enjoy transforming AI research into practical, scalable solutions.
